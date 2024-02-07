@@ -1,3 +1,7 @@
+GitHub Actions Banner
+
+![workflow](https://github.com/animob/hexlet-ci-app/actions/workflows/github-actions-ci-app.yml/badge.svg)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
